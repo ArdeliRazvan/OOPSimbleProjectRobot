@@ -1,0 +1,7 @@
+C:\Programe\Laborator Oros\OOPProjectRobot\OOPProjectRobot\obj\Debug\OOPProjectRobot.csproj.AssemblyReference.cache
+C:\Programe\Laborator Oros\OOPProjectRobot\OOPProjectRobot\obj\Debug\OOPProjectRobot.csproj.CoreCompileInputs.cache
+C:\Programe\Laborator Oros\OOPProjectRobot\OOPProjectRobot\bin\Debug\OOPProjectRobot.exe.config
+C:\Programe\Laborator Oros\OOPProjectRobot\OOPProjectRobot\bin\Debug\OOPProjectRobot.exe
+C:\Programe\Laborator Oros\OOPProjectRobot\OOPProjectRobot\bin\Debug\OOPProjectRobot.pdb
+C:\Programe\Laborator Oros\OOPProjectRobot\OOPProjectRobot\obj\Debug\OOPProjectRobot.exe
+C:\Programe\Laborator Oros\OOPProjectRobot\OOPProjectRobot\obj\Debug\OOPProjectRobot.pdb
